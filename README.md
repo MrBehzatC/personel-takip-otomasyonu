@@ -1,6 +1,6 @@
 # Personel Takip Otomasyonu
 
-Modern işletmeler için tasarlanmış, insan kaynakları süreçlerini dijitalleştiren ve kolaylaştıran kapsamlı bir personel yönetim ve izin takip sistemidir. Kullanıcı dostu arayüzü ve güçlü raporlama özellikleriyle, personel verilerini güvenle saklamanıza ve yönetmenize olanak tanır.
+Modern işletmeler için tasarlanmış, insan kaynakları süreçlerini dijitalleştiren ve kolaylaştıran basit bir personel yönetim ve izin takip sistemidir. Kullanıcı dostu arayüzü ve güçlü raporlama özellikleriyle, personel verilerini güvenle saklamanıza ve yönetmenize olanak tanır.
 
 ## 🚀 Proje Hakkında
 
@@ -48,4 +48,4 @@ Verilerinizi anlamlı raporlara dönüştürün.
 5.  **Karar Destek:** Görsel grafikler sayesinde İK kararlarınızı veriye dayalı almanıza yardımcı olur.
 
 ---
-*Bu proje, modern insan kaynakları ihtiyaçları gözetilerek titizlikle geliştirilmiştir.*
+Made with <3
